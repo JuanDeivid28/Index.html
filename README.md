@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -60,15 +59,6 @@
 <body>
 
   <h1>🌸 Explora nuestras páginas 🌸</h1>
-
-  <div class="button-container">
-    <button onclick="cargarPagina('formulario.html')">📝 Formulario</button>
-    <button onclick="cargarPagina('juego.html')">🎮 Juego</button>
-    <button onclick="cargarPagina('principal.html')">🏠 Página Principal</button>
-  </div>
-
-  <iframe id="visor" src="" title="Visor de páginas"></iframe>
-
   <footer>
     <p>Elaborado por: <strong>Maria Jose Duque y Manuela Florez</strong></p>
   </footer>
@@ -81,12 +71,11 @@
 
 </body>
 </html>
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Sopa de Letras - Brillo Mágico</title>
+  <title>Sopa de Letras - Esencia Glam</title>
   <style>
     body {
       font-family: 'Poppins', sans-serif;
@@ -228,12 +217,11 @@
   </script>
 </body>
 </html>
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Formulario de Contacto - Brillo Mágico</title>
+  <title>Formulario de Contacto - Esencia Glam</title>
   <style>
     body {
       font-family: 'Poppins', sans-serif;
@@ -312,7 +300,7 @@
   <button onclick="window.location.href='index.html'">🏠 Volver al inicio</button>
 
   <footer>
-    <p>Brillo Mágico - 2025 💋</p>
+    <p>Esencia Glam - 2025 💋</p>
   </footer>
 </body>
 <button onclick="cargarPagina('formulario.html')">📝 Formulario</button>
